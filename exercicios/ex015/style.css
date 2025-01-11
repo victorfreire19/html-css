@@ -1,0 +1,20 @@
+        @charset
+        body{
+            background-color: rgb(5, 248, 167);
+            font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+            font-size: 20px;
+        }
+
+        h1{
+            color: maroon;
+            background-color: goldenrod;
+        }
+
+        h2{
+            color: darkred;
+        }
+
+        p{
+            text-align: justify;
+       6 }
+    
